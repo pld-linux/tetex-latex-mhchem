@@ -10,6 +10,7 @@ License:	LaTeX Project Public License
 Group:		Applications/Publishing/TeX
 Source0:	ftp://ftp.ctan.org//pub/tex/macros/latex/contrib/%{short_name}.zip
 # Source0-md5:	41ab7f91f679d0d7a725692093e6e378
+BuildRequires:	unzip
 Requires(post,postun):	/usr/bin/texhash
 Requires:	tetex-latex
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
