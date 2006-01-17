@@ -28,18 +28,18 @@ these phrases are available in English, Danish, French and German
 (current spelling).
 
 %description -l pl
-Pakiet mhchem sk³ada siê z dwóch pakietów latexowych: mhchem i
+Pakiet mhchem sk³ada siê z dwóch pakietów LaTeXowych: mhchem i
 rsphrase.
 
-Pakiet mhchem dostarcza dwóch komend: pierwsza u³atwiaj±ca pisanie
-wzorów chemicznych druga umo¿liwiaj±ca tworzenie równañ chemicznych
+Pakiet mhchem dostarcza dwa polecenia: pierwsza u³atwia pisanie
+wzorów chemicznych, druga umo¿liwia tworzenie równañ chemicznych
 przy wykorzystaniu tych wzorów.
 
 Pakiet rsphrase zawiera teksty wszystkich zwrotów R (Risk phrases,
 zwroty R, opisuj±ce zagro¿enie) oraz zwrotów S (Safety phrases, zwroty
 S, opisuj±ce ¶rodki zapobiegawcze) u¿ywanych do etykietowania zwi±zków
 chemicznych. Na chwilê obecn±, zwroty te s± dostêpne w jêzykach:
-angielskim, duñskim, francuskim oraz niemieckim (nowa pisownia).
+angielskim, duñskim, francuskim oraz niemieckim (w nowej pisowni).
 
 %prep
 %setup -q -n %{short_name}
