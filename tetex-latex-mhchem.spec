@@ -31,8 +31,8 @@ these phrases are available in English, Danish, French and German
 Pakiet mhchem sk³ada siê z dwóch pakietów LaTeXowych: mhchem i
 rsphrase.
 
-Pakiet mhchem dostarcza dwa polecenia: pierwsza u³atwia pisanie
-wzorów chemicznych, druga umo¿liwia tworzenie równañ chemicznych
+Pakiet mhchem dostarcza dwa polecenia: pierwsze u³atwia pisanie
+wzorów chemicznych, drugie umo¿liwia tworzenie równañ chemicznych
 przy wykorzystaniu tych wzorów.
 
 Pakiet rsphrase zawiera teksty wszystkich zwrotów R (Risk phrases,
