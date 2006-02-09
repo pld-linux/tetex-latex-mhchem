@@ -4,7 +4,7 @@
 Summary:	Eassier writing of chemical formulas and R and S phrases
 Summary(pl):	Pakiet u³atwiaj±cy pisanie wzorów chemicznych oraz zwrotów R S
 Name:		tetex-latex-%{short_name}
-Version:	3.00
+Version:	3.01
 Release:	1		
 License:	LaTeX Project Public License
 Group:		Applications/Publishing/TeX
