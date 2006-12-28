@@ -4,12 +4,12 @@
 Summary:	Eassier writing of chemical formulas and R and S phrases
 Summary(pl):	Pakiet u³atwiaj±cy pisanie wzorów chemicznych oraz zwrotów R S
 Name:		tetex-latex-%{short_name}
-Version:	3.04
+Version:	3.05
 Release:	1
 License:	LaTeX Project Public License
 Group:		Applications/Publishing/TeX
-Source0:	ftp://ftp.ctan.org//pub/tex/macros/latex/contrib/%{short_name}.zip
-# Source0-md5:	23c8fac946b50155aa3af50ffb0d83e7
+Source0:	ftp://ftp.ctan.org//pub/tex-archive/macros/latex/contrib/%{short_name}.zip
+# Source0-md5:	6f2c9485e448c5acc16a9ce032d170a5
 BuildRequires:	unzip
 Requires(post,postun):	/usr/bin/texhash
 Requires:	tetex-latex
