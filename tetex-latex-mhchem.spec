@@ -2,7 +2,7 @@
 %define texhash [ ! -x %{_bindir}/texhash ] || %{_bindir}/texhash 1>&2 ;
 
 Summary:	Eassier writing of chemical formulas and R and S phrases
-Summary(pl):	Pakiet u³atwiaj±cy pisanie wzorów chemicznych oraz zwrotów R S
+Summary(pl.UTF-8):   Pakiet uÅ‚atwiajÄ…cy pisanie wzorÃ³w chemicznych oraz zwrotÃ³w R S
 Name:		tetex-latex-%{short_name}
 Version:	3.05
 Release:	1
@@ -27,19 +27,19 @@ The rsphrase package contains the text of all official Risk and Safety
 these phrases are available in English, Danish, French and German
 (current spelling).
 
-%description -l pl
-Pakiet mhchem sk³ada siê z dwóch pakietów LaTeXowych: mhchem i
+%description -l pl.UTF-8
+Pakiet mhchem skÅ‚ada siÄ™ z dwÃ³ch pakietÃ³w LaTeXowych: mhchem i
 rsphrase.
 
-Pakiet mhchem dostarcza dwa polecenia: pierwsze u³atwia pisanie
-wzorów chemicznych, drugie umo¿liwia tworzenie równañ chemicznych
-przy wykorzystaniu tych wzorów.
+Pakiet mhchem dostarcza dwa polecenia: pierwsze uÅ‚atwia pisanie
+wzorÃ³w chemicznych, drugie umoÅ¼liwia tworzenie rÃ³wnaÅ„ chemicznych
+przy wykorzystaniu tych wzorÃ³w.
 
-Pakiet rsphrase zawiera teksty wszystkich zwrotów R (Risk phrases,
-zwroty R, opisuj±ce zagro¿enie) oraz zwrotów S (Safety phrases, zwroty
-S, opisuj±ce ¶rodki zapobiegawcze) u¿ywanych do etykietowania zwi±zków
-chemicznych. Na chwilê obecn±, zwroty te s± dostêpne w jêzykach:
-angielskim, duñskim, francuskim oraz niemieckim (w nowej pisowni).
+Pakiet rsphrase zawiera teksty wszystkich zwrotÃ³w R (Risk phrases,
+zwroty R, opisujÄ…ce zagroÅ¼enie) oraz zwrotÃ³w S (Safety phrases, zwroty
+S, opisujÄ…ce Å›rodki zapobiegawcze) uÅ¼ywanych do etykietowania zwiÄ…zkÃ³w
+chemicznych. Na chwilÄ™ obecnÄ…, zwroty te sÄ… dostÄ™pne w jÄ™zykach:
+angielskim, duÅ„skim, francuskim oraz niemieckim (w nowej pisowni).
 
 %prep
 %setup -q -n %{short_name}
