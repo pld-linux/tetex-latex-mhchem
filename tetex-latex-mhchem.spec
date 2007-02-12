@@ -2,7 +2,7 @@
 %define texhash [ ! -x %{_bindir}/texhash ] || %{_bindir}/texhash 1>&2 ;
 
 Summary:	Eassier writing of chemical formulas and R and S phrases
-Summary(pl.UTF-8):   Pakiet ułatwiający pisanie wzorów chemicznych oraz zwrotów R S
+Summary(pl.UTF-8):	Pakiet ułatwiający pisanie wzorów chemicznych oraz zwrotów R S
 Name:		tetex-latex-%{short_name}
 Version:	3.05
 Release:	1
